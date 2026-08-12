@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Hii, I'm Siri Nandini Alanka 👋</h1>
-<h3 align="center">✨ B.E. Artificial Intelligence & Machine Learning • CBIT Hyderabad • Class of 2027 ✨</h3>
+<h3 align="center">✨ B.E. CSE-Artificial Intelligence & Machine Learning • CBIT Hyderabad • Class of 2027 ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
